@@ -1,5 +1,4 @@
  // Author: Manohar Chitoda and Suraj Upadhyay
-// Asst #: Asst2
 // Date: Nobvember 21, 2018
 
 #include <stdio.h>
